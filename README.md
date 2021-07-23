@@ -9,7 +9,4 @@
 <p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=sajalT05&stroke=79B8FF&border=00000053&fire=044289&ring=2188FFDF&currStreakLabel=044289" alt="sajalT05" width="400" /></p>
 </p>
 
-</br>
 
-<!-- languages used -->
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalT05&layout=compact" alt="sajalT05" /></p>
