@@ -14,7 +14,7 @@
   </p>
 <!-- github trophies -->
 
-<br>
+&nbsp; 
 
 <h4>Useful Resources</h4>
   
