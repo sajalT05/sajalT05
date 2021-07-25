@@ -14,7 +14,9 @@
   </p>
 <!-- github trophies -->
 
-&nbsp; 
+<p> These statistics are created automatically.</p>
+
+<br>
 
 <h4>Useful Resources</h4>
   
