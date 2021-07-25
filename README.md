@@ -11,7 +11,11 @@
 </p>
 </div>
 
-  
+<!-- github trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=sajalT05)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br><br>
+
 ***Useful Resources***
 <br>
 [Github Makrdown Syntax Cheatsheet](https://github.com/sajalT05/repository/blob/main/resources/github-markdown-syntax.md)
