@@ -1,0 +1,18 @@
+git clone {url}
+    clone a repository
+    url: url of repository on github.com
+    repoistory cloned as a folder.
+
+git add {fileName.extension}
+    staging of a file
+    fileName: name of file
+    extension: extension of file
+git add .
+    staging all files
+
+git commit -m '{message}'
+    commit all the changes or file staged
+    message: message during commit, compulsory.
+
+git push
+    push all committed files to repoistory.

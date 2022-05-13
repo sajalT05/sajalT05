@@ -1,0 +1,21 @@
+// master is system defined default branch.
+// {branchName} | branchName: name of the branch
+
+git branch {branchName}
+    create a new branch
+
+git checkout {branchName}
+    shift to the branch
+
+git checkout -b {branchName}
+    create a new branch
+    shift to the branch
+
+git merge {branchName}
+    merge new createed branch to master branch.
+
+git push --set-upstream origin {branchName}
+    push branch to repoistory
+
+git branch -d {branchName}
+    delete a branch

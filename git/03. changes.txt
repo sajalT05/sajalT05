@@ -1,0 +1,19 @@
+git checkout -- {fileName.extension}
+    undo uncommitted changes in a file
+    fileName: name of file
+    extension: extension of file
+git checkout -- .
+    undo all uncommitted changes in a file.
+
+git revert {commitID}
+    undo committed changes
+    commitID: commit Id from git log
+    commit changes
+git revert -n {commitID}
+    undo committed changes
+    commitID: commit Id from git log
+    doesn't commit changes
+
+git reset --hard {commitID}
+    move to commit with the specific ID.
+    commitID: commit Id from git log.

@@ -1,0 +1,11 @@
+// HEAD : most recent commit in the branch.
+
+
+git status
+    status of the branch
+
+git log
+    past git commands
+
+git branch
+    names of branches.
