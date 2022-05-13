@@ -1,0 +1,4 @@
+// ignore(don't show) files and folder in github repository
+
+touch .gitignore
+    create .gitignore file

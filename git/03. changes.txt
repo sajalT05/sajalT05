@@ -1,3 +1,7 @@
+// {commitID} | commitID: commit Id from git
+
+// HEAD -> HEAD-1 -> HEAD-2 -> ... 
+
 git checkout -- {fileName.extension}
     undo uncommitted changes in a file
     fileName: name of file
@@ -7,13 +11,19 @@ git checkout -- .
 
 git revert {commitID}
     undo committed changes
-    commitID: commit Id from git log
     commit changes
 git revert -n {commitID}
     undo committed changes
-    commitID: commit Id from git log
     doesn't commit changes
 
 git reset --hard {commitID}
     move to commit with the specific ID.
-    commitID: commit Id from git log.
+
+git difftool {commitID1} {commitID2}
+    show difference between two committs.
+git difftool HEAD-3 HEAD-1
+
+git show {commitID}
+    show commit of a specific ID
+git show HEAD
+    show commit of the last commit
