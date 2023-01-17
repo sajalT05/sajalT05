@@ -1,8 +1,3 @@
-<!-- snake eating contributions gif -->
-<p align="center">
-  <img src="https://github.com/sajalT05/sajalT05/blob/output/github-contribution-grid-snake.gif"></img>
-</p>
-
 <!-- github dynamic details -->
   <!-- github statstics -->
   <p align="left">
